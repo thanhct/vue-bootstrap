@@ -93,7 +93,7 @@
     "webpack-merge": "^0.14.1",
     "bootstrap": "^4.0.0-alpha.6",
     {{#bootstrap}}
-    "vue-router": "^2.0.0",
+    "vue-router": "^2.0.0"
     {{/bootstrap}}
   },
   "engines": {
