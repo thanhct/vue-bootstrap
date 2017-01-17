@@ -74,7 +74,7 @@ module.exports = {
       "type": "confirm",
       "message": "Setup e2e tests with Nightwatch?"
     },
-    "bootstrap:" {
+    "bootstrap": {
       "type": "confirm",
       "message": "Create a demo app with Bootstrap 4?"
     }
