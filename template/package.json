@@ -90,7 +90,11 @@
     "webpack": "^1.13.2",
     "webpack-dev-middleware": "^1.8.3",
     "webpack-hot-middleware": "^2.12.2",
-    "webpack-merge": "^0.14.1"
+    "webpack-merge": "^0.14.1",
+    "bootstrap": "^4.0.0-alpha.6",
+    {{#bootstrap}}
+    "vue-router": "^2.0.0",
+    {{/bootstrap}}
   },
   "engines": {
     "node": ">= 4.0.0",
