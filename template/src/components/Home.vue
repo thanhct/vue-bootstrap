@@ -2,7 +2,7 @@
   <div class="home">
     <div class="text-center">
       <img src="../assets/logo.png">
-      <h1>Welcome!</h1>
+      <h1>{{msg}}</h1>
       <p class="lead">
         This is the Home page for your new app, defined in <code>src/components/Home.vue</code>.
       </p>
